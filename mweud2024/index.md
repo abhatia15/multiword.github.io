@@ -1,5 +1,5 @@
 ---
-title: First Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)
+title: Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)
 layout: default
 ---
 
@@ -7,7 +7,7 @@ layout: default
 
 **Colocated with:** [LREC-COLING 2024](https://lrec-coling-2024.org) (Torino, Italia)
 
-**Date of the Workshop:** TBD
+**Tentative Date of the Workshop:** May 20/24/25, 2024 
 
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
@@ -26,10 +26,10 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **19 January 2023**: Invited speaker Leo Wanner confirmed
 * **16 January 2023**: Second CfP posted
 * **23 December 2022**: First CfP posted
-* **9 December 2022**: MWE 2023 proposal accepted to EACL 2023
-* **2 November 2022**: Organising committee formed
 -->
-
+* **November 21, 2023**: MWE-UD 2024 proposal accepted to LREC-COLING 2024
+* **August 29, 2023**: Organising committee formed
+  
 -----
 
 <details open markdown="block">
@@ -104,35 +104,50 @@ TBD
 
 -----
 
-### <a name="dates"> Important dates </a>
+### <a name="dates"> (Tentative) Important dates </a>
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
-| Paper submission deadline  | TBD                        |
-| ARR commitment deadline    | TBD                        |
-| Notification of acceptance | TBD                        |
-| Camera-ready papers due    | TBD                        |
+| Paper submission deadline  | February 25, 2024                        |
+| ARR commitment deadline    | April 1, 2024                        |
+| Notification of acceptance | April 1, 2024                        |
+| Camera-ready papers due    | April 15, 2024                        |
 | Underline upload deadline  | TBD                        |
-| Workshop                   | TBD                        |
+| Workshop                   | May 20/24/25, 2024                        |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 -----
 
 ### <a name="organizers"> Organizing Committee </a>
-
+<!--
 | What | Who |
 | ---- | --- |
 | Program chairs | TBD |
 | Publication chair | TBD |
 | Coordination and communication chair | TBD |
 | Publicity chair | |
+-->
+
+| Who                        | Affiliation                |
+| -------------------------- | -------------------------- |
+| Archna Bhatia              | Institute for Human and Machine Cognition, USA |  
+| Gosse Bouma                | Groningen University, NL |
+| Kilian Evang               | Heinrich Heine University Düsseldorf, DE |
+| Marcos Garcia              | University of Santiago de Compostela, Galiza, Spain |
+| Voula Giouli               | Institute for Language & Speech Processing, ATHENA RC, Greece |  
+| Lifeng Han                 | Univ. of Manchester, UK |  
+| Joakim Nivre               | Uppsala University and Research Institutes of Sweden, Sweden |
 
 -----
 
 ### <a name="committee"> Program Committee </a>
 
-TBD
+| Who                        | Affiliation                |
+| -------------------------- | -------------------------- |
+| Jean-Yves Antoine          | University of Tours        |
+| Verginica Barbu Mititelu   | Romanian Academy           |
+| Cherifa Ben Kehlil         | University of Tours        |
 
 -----
 
@@ -145,7 +160,8 @@ policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy)
 
 ### <a name="contact"> Contact </a>
 
-TBD
+For any inquiries regarding the workshop, please send an email to the Organizing Committee at <mweud2024-organizers@uni-duesseldorf.de>.
 
 Please register to [SIGLEX](../organization/members) and check the "MWE
 Section" box to be registered to our [mailing list](../mailinglist).
+
