@@ -148,6 +148,72 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Jean-Yves Antoine          | University of Tours        |
 | Verginica Barbu Mititelu   | Romanian Academy           |
 | Cherifa Ben Kehlil         | University of Tours        |
+| Francis Bond               | Palacký University         |
+| Claire Bonial              | U.S. Army Research Laboratory |
+| Tiberiu Boroș              | Adobe                      |
+| Miriam Butt                | Universität Konstanz       |
+| Marie Candito              | Université Paris Cité      |
+| Çağrı Çöltekin             | Tübingen                   |
+| Paul Cook                  | University of New Brunswick |
+| Monika Czerepowicka        | University of Warmia and Mazury |
+| Daniel Dakota              | Indiana University         |
+| Marie-Catherine de Marneffe | UCLouvain                 |
+| Valeria de Paiva           | Nuannce                    | 
+| Kaja Dobrovoljc            | University of Ljubljana    |
+| Rafael Ehren               | Heinrich Heine University Düsseldorf |
+| Christiane Fellbaum        | Princeton University       |
+| Jennifer Foster            | Dublin City University     |
+| Aggeliki Fotopoulou        | Institute for Language and Speech Processing, ATHENA RC |
+| Stefan Th. Gries           | UC Santa Barbara & JLU Giessen | 
+| Bruno Guillaume            | Université de Lorraine     |
+| Tunga Gungor               | Bogaziçi University        |
+| Eleonora Guzzi             | Universidade da Coruña     |
+| Cvetana Krstev             | University of Belgrade     |
+| Timm Lichte                | University of Tübingen     |
+| Irina Lobzhanidze          | Ilia State University      |
+| Teresa Lynn                | ADAPT Centre               |
+| Stella Markantonatou       | Institute for Language & Speech Processing, ATHENA RC |
+| John P. McCrae             | National University of Ireland, Galway |
+| Nurit Melnik               | The Open University of Israel |
+| Laura A. Michaelis         | University of Colorado Boulder |
+| Johanna Monti              | "L'Orientale" University of Naples |
+| Jan Odijk                  | University of Utrecht      |
+| Petya Osenova              | Bulgarian Academy of Sciences |
+| Yannick Parmentier         | University of Lorraine     |
+| Agnieszka Patejuk          | University of Oxford and Institute of Computer Science, Polish Academy of Sciences |
+| Pavel Pecina               | Charles University |
+| Ted Pedersen               | University of Minnesota |
+| Scott Piao                 | Lancaster University |
+| Martin Popel               | Charles University |
+| Prokopis Prokopidis        | Institute for Language and Speech Processing, ATHENA RC |
+| Carlos Ramisch             | Aix Marseille University | 
+| Manfred Sailer             | Goethe-Universität Frankfurt am Main |
+| Tanja Samardžić            | University of Zurich |
+| Agata Savary               | Université Paris-Saclay |
+| Nathan Schneider           | Georgetown University |
+| Sabine Schulte im Walde    | University of Stuttgart |
+| Sebastian Schuster         | Saarland University |
+| Maria Simi                 | Università di Pisa |
+| Kiril Simov                | Bulgarian Academy of Sciences |
+| Ivelina Stoyanova          | Bulgarian Academy of Sciences |
+| Stan Szpakowicz            | University of Ottawa |
+| Zeerak Talat               | Simon Fraser University |
+| Shiva Taslimipoor          | University of Cambridge |
+| Harish Tayyar Madabushi    | University of Bath |
+| Beata Trawinski            | Leibniz Institute for the German Language |
+| Ashwini Vaidya             | Indian Institute of Technology |
+| Amir Zeldes                | Georgetown University |
+| Daniel Zeman               | Charles University |
+| Marion Di Marco            | Uni Muenchen |
+| Matt Shardlow              | Manchester Metropolitan Uni |
+| Sadat.                     | Université du Québec à Montréal |
+| Pavel Stranak              | Uni Karlova |
+| Pierre André               | Centre de recherche informatique de Montréal |
+| Farahmand Meghdad          | Uni Geneva |
+| Gaël Dias                  | University of Caen Basse-Normandie |
+| Giuseppe G. A. Celano      | Leipzig Uni |
+| Philippe Blache            | Aix-Marseille Uni |
+| Julia R. Bonn              | Uni Colorado Boulder | 
 
 -----
 
