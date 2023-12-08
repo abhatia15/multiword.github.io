@@ -84,6 +84,7 @@ After independently running a successful series of workshops, the MWE and UD com
 
 The workshop invites submissions of original research on MWE, UD, and the interplay of both. In particular, the following topics are especially relevant: 
 
+- Sensitivity of LLMs to MWE and syntactic dependencies. Studies along the lines of Manning et al. (2020) (UD), Nedumpozhimana and Kelleher (2021), Garcia et al. (2021), Fakharian and Cook (2021), Moreau et al. (2018) (MWE), and others on the question to what extent LLMs make use of syntactic dependencies or are capable of detecting MWEs and capturing their semantics. 
 
 -----
 
