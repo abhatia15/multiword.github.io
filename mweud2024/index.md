@@ -76,7 +76,14 @@ TBD
 
 ### <a name="description"> Description </a>
 
-TBD
+Multiword expressions (MWEs) are word combinations that exhibit lexical, syntactic, semantic, pragmatic, and/or statistical idiosyncrasies (Baldwin and Kim, 2010), such as by and large, hot dog, pay a visit and pull someone's leg. The notion encompasses closely related phenomena: idioms, compounds, light-verb constructions, phrasal verbs, rhetorical figures, collocations, institutionalized phrases, etc. Their behavior is often unpredictable; for example, their meaning often does not result from the direct combination of the meanings of their parts. Given their irregular nature, MWEs often pose complex problems in linguistic modeling (e.g. annotation), NLP tasks (e.g. parsing), and end-user applications (e.g. natural language understanding and MT), hence still representing an open issue for computational linguistics (Constant et al., 2017).
+
+Universal Dependencies (UD; De Marneffe et al., 2021) is a framework for cross-linguistically consistent treebank annotation that has so far been applied to over 100 languages. The framework aims to capture similarities as well as idiosyncrasies among typologically different languages (e.g., morphologically rich languages, pro-drop languages, and languages featuring clitic doubling). The goal in developing UD was not only to support comparative evaluation and cross-lingual learning but also to facilitate multilingual natural language processing and enable comparative linguistic studies.
+
+After independently running a successful series of workshops, the MWE and UD communities are now joining forces to organize a joint workshop. This is a timely collaboration because the two communities clearly have overlapping interests. For instance, while UD has several dependency relations that can be used to annotate MWEs, both annotation guidelines (i.e. is syntactic irregularity and inflexibility or semantic non-compositionality the leading criterion?) and annotation practice (both across treebanks for a single language and across languages) for these relations can be improved (Schneider and Zeldes, 2021). The PARSEME MWE-annotated corpora for 26 languages build on UD annotated corpora (Savary et al., 2023). Both communities share an interest in developing guidelines, data-sets, and tools that can be applied to a wide range of typologically diverse languages, raising fundamental questions about tokenization, lemmatization, and morphological decomposition of tokens. Proposals for harmonizing annotation practice between what has been achieved in PARSEME and UD and expanding PARSEME MWE annotation to non-verbal MWEs are also central to the recently started UniDive COST action (CA21167). 
+
+The workshop invites submissions of original research on MWE, UD, and the interplay of both. In particular, the following topics are especially relevant: 
+
 
 -----
 
