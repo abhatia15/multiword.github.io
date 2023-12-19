@@ -7,7 +7,7 @@ layout: default
 
 **Colocated with:** [LREC-COLING 2024](https://lrec-coling-2024.org) (Torino, Italia)
 
-**Tentative Date of the Workshop:** May 20/24/25, 2024 
+**Date of the Workshop:** May 25, 2024 
 
 **Organised and sponsored by:**\
 The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)), SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html)), Universal Dependencies ([UD](https://universaldependencies.org)) and [UniDive](https://unidive.lisn.upsaclay.fr) Cost Action CA21167.
@@ -27,6 +27,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 * **16 January 2023**: Second CfP posted
 * **23 December 2022**: First CfP posted
 -->
+* **December 8, 2023**: MWE-UD 2024 workshop date confirmed (Workshop Date: May 25, 2024)
 * **November 21, 2023**: MWE-UD 2024 proposal accepted to LREC-COLING 2024
 * **August 29, 2023**: Organising committee formed
   
@@ -84,7 +85,7 @@ The workshop invites submissions of original research on MWE, UD, and the interp
 - Applicability of UD and MWE annotation and discovery for low-resource and typologically diverse languages and language varieties. Both UD and PARSEME aim at universal applicability across a wide range of languages. Much theoretical, computational, and empirical work concentrates on high-resource languages however. Applying these frameworks to typologically diverse languages may lead one to reconsider the notion of token, word, and morphological segmentation, and to reassess the notion of MWE for languages that feature compounding or incorporation (Baldwin et al., 2021; Haspelmath, 2023).
 - Case studies.  Studies on the  consistency,  coverage or universal applicability of MWE annotation in the UD or PARSEME frameworks, as well as studies on automatic detection and interpretation of MWEs in corpora.
 - MWE and UD processing to enhance end-user applications. MWEs have gained particular attention in end-user applications, including MT (Zaninello and Birch, 2020; Han et al., 2021), simplification (Kochmar et al., 2020), language learning and assessment (Paquot et al., 2019; Christiansen and Arnon, 2017), social media mining (Maisto et al., 2017), and abusive language detection (Zampieri et al., 2020; Caselli et al., 2020). We believe that it is crucial to extend and deepen these first attempts to integrate and evaluate MWE technology in these and further end-user applications.
-- Testing developed systems on the latest dataset versions. Authors are encouraged to use the recent UD 2.13 release and PARSEME 1.3 release to test their systems.
+- Testing developed systems on the latest dataset versions. Authors are also encouraged to submit papers that test the developed systems using the recent UD 2.13 and/or PARSEME 1.3 releases.
 
 -----
 
@@ -128,11 +129,11 @@ Archival papers with existing reviews from ACL Rolling Review (ARR)) will also b
 | What                       | When                       |
 | -------------------------- | -------------------------- |
 | Paper submission deadline  | February 25, 2024                        |
-| ARR commitment deadline    | April 1, 2024                        |
+| ARR commitment deadline    | March 25, 2024                        |
 | Notification of acceptance | April 1, 2024                        |
-| Camera-ready papers due    | April 15, 2024                        |
+| Camera-ready papers due    | April 8, 2024                        |
 | Underline upload deadline  | TBD                        |
-| Workshop                   | May 20/24/25, 2024                        |
+| Workshop                   | May 25, 2024                        |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
