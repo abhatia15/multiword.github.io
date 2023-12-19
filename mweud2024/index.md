@@ -10,7 +10,7 @@ layout: default
 **Tentative Date of the Workshop:** May 20/24/25, 2024 
 
 **Organised and sponsored by:**\
-Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
+The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)), SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html)), Universal Dependencies ([UD](https://universaldependencies.org)) and [UniDive](https://unidive.lisn.upsaclay.fr) Cost Action CA21167.
 
 <a href="https://twitter.com/multiword?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@multiword</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
