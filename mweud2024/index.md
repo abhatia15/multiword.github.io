@@ -10,7 +10,7 @@ layout: default
 **Tentative Date of the Workshop:** May 20/24/25, 2024 
 
 **Organised and sponsored by:**\
-Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
+The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)), SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html)), Universal Dependencies ([UD](https://universaldependencies.org)) and [UniDive](https://unidive.lisn.upsaclay.fr) Cost Action CA21167.
 
 <a href="https://twitter.com/multiword?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@multiword</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -84,7 +84,7 @@ The workshop invites submissions of original research on MWE, UD, and the interp
 - Applicability of UD and MWE annotation and discovery for low-resource and typologically diverse languages and language varieties. Both UD and PARSEME aim at universal applicability across a wide range of languages. Much theoretical, computational, and empirical work concentrates on high-resource languages however. Applying these frameworks to typologically diverse languages may lead one to reconsider the notion of token, word, and morphological segmentation, and to reassess the notion of MWE for languages that feature compounding or incorporation (Baldwin et al., 2021; Haspelmath, 2023).
 - Case studies.  Studies on the  consistency,  coverage or universal applicability of MWE annotation in the UD or PARSEME frameworks, as well as studies on automatic detection and interpretation of MWEs in corpora.
 - MWE and UD processing to enhance end-user applications. MWEs have gained particular attention in end-user applications, including MT (Zaninello and Birch, 2020; Han et al., 2021), simplification (Kochmar et al., 2020), language learning and assessment (Paquot et al., 2019; Christiansen and Arnon, 2017), social media mining (Maisto et al., 2017), and abusive language detection (Zampieri et al., 2020; Caselli et al., 2020). We believe that it is crucial to extend and deepen these first attempts to integrate and evaluate MWE technology in these and further end-user applications.
-- Testing developed systems on the latest dataset versions. Authors are encouraged to use the recently released UD 2.13 release and PARSEME 1.3 release to test their systems.
+- Testing developed systems on the latest dataset versions. Authors are encouraged to use the recent UD 2.13 release and PARSEME 1.3 release to test their systems.
 
 -----
 
